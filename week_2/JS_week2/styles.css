@@ -1,0 +1,51 @@
+.body{
+    
+    font-family: 'Montserrat', sans-serif;
+    background-color: #008970;
+}
+.presentation{
+    font-family: 'Montserrat', sans-serif;
+    padding: 10% ;
+    text-align: center;
+    color: #99eedf;
+    padding-left: 200px;
+}
+.row{
+    padding: 10px;
+    justify-content: center;
+    
+    
+}
+.row_1{
+    padding: 20px;
+    justify-content: center;
+}
+.card{
+    border-color: aliceblue;
+    color: #99eedf;
+    
+}
+.text{
+    font-size: 15px;
+    padding: 0;
+    margin: 0;  
+    color: #99eedf;
+
+}
+.hr{
+    margin: 0;
+}
+.heading{
+    margin-right: 115px;
+}
+.p{
+    color: #99eedf;
+}
+.card1 {
+     background-color: #99eedf;
+    border-color: #99eedf;
+    color: #008970;
+    padding: 20px;
+    border-radius: 40px;
+    
+}
