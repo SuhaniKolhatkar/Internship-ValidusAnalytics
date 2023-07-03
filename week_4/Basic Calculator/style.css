@@ -1,0 +1,36 @@
+body{
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button{
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    border-radius: 20px;
+    color: blue;
+    border-color: white;
+}
+section{
+    margin: 10% 40%;
+    text-align: center;
+}
+.calc{
+    margin: 10% 30%;
+}
+.row{
+    border: solid ;
+    border-width: 1px;
+    font-weight: 400;
+    font-size: 20px;
+    color: blue;
+    border-radius:20px ;
+}
+.type{
+    padding: 20px;
+    color: blue;
+}
+h1{
+    padding: 30px;
+    
+}

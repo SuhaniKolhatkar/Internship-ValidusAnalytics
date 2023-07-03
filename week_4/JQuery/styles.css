@@ -1,0 +1,15 @@
+.large{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: center;
+    color: blueviolet;
+    border: solid ;
+}
+
+.huge_button{
+    font-size: 30px;
+    background-color: black;
+    color: blanchedalmond;
+    border: solid;
+    border-radius: 20px;
+}
